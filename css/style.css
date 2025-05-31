@@ -15,7 +15,7 @@ button, input, select, textarea {
 }
 
 
-/* CV CSS */
+/* CV CSS Bai 1*/
 .cv {
     max-width: 980px;
     min-height: 100px;
@@ -82,7 +82,7 @@ p.content {
     text-align: justify;
 }
 
-/* Form CSS */
+/* Form CSS Bai 3*/
 .form-register {
     background-color: white;
     max-width: 600px;
@@ -147,7 +147,7 @@ p.content {
 }
 
 
-/* MENU CSS */
+/* MENU CSS Bai 2 */
 .menu {
     padding: 0 40px;
     background-color: #455bc4;
@@ -171,3 +171,4 @@ p.content {
     color: black;
     font-size: 16px;
 }
+
