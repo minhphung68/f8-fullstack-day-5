@@ -159,11 +159,16 @@ p.content {
 }
 
 .menu li a {
-    display: inline-block;
+    display: inline-flex;
     padding: 20px 30px;
     color: white;
     text-decoration: none;
     font-size: 16px;
+    gap: 8px; 
+}
+
+.menu li a i {
+    margin-top: 2px;
 }
 
 .menu .active a {
@@ -171,4 +176,6 @@ p.content {
     color: black;
     font-size: 16px;
 }
+
+
 
